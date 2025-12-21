@@ -1,6 +1,7 @@
 local opt = vim.opt
 opt.clipboard = "unnamedplus"
 opt.relativenumber = false
+opt.wrap = true
 
 -- LazyVim root dir detection
 -- Each entry can be:
